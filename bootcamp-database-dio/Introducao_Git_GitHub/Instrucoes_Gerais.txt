@@ -1,0 +1,23 @@
+- Neste arquivo contém as informações do primeiro desafio de projeto do Bootcamp Database Experience da Dio.
+
+- O desafio consiste em instalar o Git, criar um perfil no GitHub e criar o primeiro repositório.
+
+
+- Detalhamento da construção do desafio:
+
+	- Todas as pastas e arquivos foram criados a partir do terminal do Git, a fim de fixar os comandos ensinados no curso.
+
+	- As pastas foram criadas utilizando o comando "mkdir + nome da pasta";
+	
+	- Após a crição da pasta do repositório foi utilizado o comando "git init" dentro do mesmo, para começar a versionar o código;
+
+	- Foi criado o arquivo README.md para organizar as informações introdutórias principais para o repositório;
+
+	- Foi criado também o arquivo "Instrucoes_Gerais" dentro da pasta "Introducao_Git_GitHub", a fim de descrever resumidamente as etapas do primeiro desafio;
+
+	- Após a conclusão das etapas descritas acima foi utilazado o "git add *" e o "git commit -m" para salvar as informações e as mudanças realizadas no código.
+
+	- Para finzalizar foi utilizado o "git remote origin + endereço do repositório no servidor" para fazer o upload da pasta do desketop para o GitHub através do 		comando "git push origin master".
+	
+
+
